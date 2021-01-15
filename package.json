@@ -1,0 +1,25 @@
+{
+  "name": "nodecli",
+  "version": "0.1.0",
+  "description": "cli tool built with node js",
+  "main": "bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "app": "bin/app.js"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Busifunmi1/SCA-Cloud-School-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Busifunmi1/SCA-Cloud-School-Application/issues"
+  },
+  "homepage": "https://github.com/Busifunmi1/SCA-Cloud-School-Application#readme"
+}
